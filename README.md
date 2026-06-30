@@ -4,6 +4,25 @@ Alzheimer's disease (AD) is a progressive neurodegenerative disorder for which r
 This project presents an end-to-end transcriptomic biomarker discovery pipeline using whole-blood gene expression profiles from the AddNeuroMed cohort (GSE63060). Statistical analysis, progression modeling, and machine learning were integrated to identify genes exhibiting consistent expression changes across the disease continuum: 
 #### Control → Mild Cognitive Impairment → Alzheimer's Disease
 Starting from 48,804 transcriptomic probes, the analysis identified 52 progression-associated genes and prioritized 14 high-confidence biomarker candidates supported by both statistical significance and machine-learning feature importance.
+## Project Highlights
+
+| Dataset Scale | Result |
+|---------------|--------|
+| 👥 Samples | 326 |
+| 🧬 Expression Probes | 48,804 |
+| 📊 Significant Probes (FDR) | 3,647 |
+| 🔍 Progression Probes | 66 |
+| 🧬 Unique Progression Genes | 52 |
+| ⭐ Final Biomarker Candidates | 14 |
+
+### Key Outcomes
+
+- Identified **3,647 significantly altered probes** across CTL, MCI, and AD groups.
+- Discovered **52 genes exhibiting consistent disease progression patterns**.
+- Prioritized **14 high-confidence biomarker candidates** using statistical analysis and machine learning.
+- Demonstrated that blood transcriptomic profiles contain detectable signatures of Alzheimer's disease progression.
+
+
 ### Research Question
 Can blood gene expression profiles identify molecular biomarkers associated with Alzheimer's disease progression from healthy aging through mild cognitive impairment to clinically diagnosed Alzheimer's disease?
 
