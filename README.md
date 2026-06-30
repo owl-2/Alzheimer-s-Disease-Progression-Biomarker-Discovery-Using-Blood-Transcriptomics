@@ -140,6 +140,9 @@ Matplotlib
 #### Project Impact
 This project demonstrates a reproducible computational framework for biomarker discovery in neurodegenerative disease. By combining statistical analysis with machine learning, the workflow narrows thousands of transcriptomic features into a focused set of candidate biomarkers for future biological validation.
 
+### Limitations: 
+Findings are derived from a single transcriptomic cohort and should be considered candidate biomarkers until validated in independent datasets and experimental studies.
+
 ## Future Work
 Pathway enrichment analysis
 
