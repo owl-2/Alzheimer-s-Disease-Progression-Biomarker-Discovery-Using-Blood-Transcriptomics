@@ -21,7 +21,23 @@ Starting from 48,804 transcriptomic probes, the analysis identified 52 progressi
 - Discovered **52 genes exhibiting consistent disease progression patterns**.
 - Prioritized **14 high-confidence biomarker candidates** using statistical analysis and machine learning.
 - Demonstrated that blood transcriptomic profiles contain detectable signatures of Alzheimer's disease progression.
-
+### Final biomarker Candidates
+ | Gene symbol   | Gene title                                            | Direction   |   Change |   Importance |
+|:--------------|:------------------------------------------------------|:------------|---------:|-------------:|
+| RPL36AL       | ribosomal protein L36a like                           | down        | 0.739503 |    0.0679143 |
+| RNA28S5       | RNA, 28S ribosomal 5                                  | up          | 1.21564  |    0.0462421 |
+| SDF4          | stromal cell derived factor 4                         | down        | 0.278686 |    0.0256044 |
+| BOLA2         | bolA family member 2                                  | up          | 0.305497 |    0.0255301 |
+| DPCD          | deleted in primary ciliary dyskinesia homolog (mouse) | down        | 0.121868 |    0.0242657 |
+| THBS1         | thrombospondin 1                                      | up          | 0.238507 |    0.0218365 |
+| TTC25         | tetratricopeptide repeat domain 25                    | down        | 0.211199 |    0.0210014 |
+| KAZN          | kazrin, periplakin interacting protein                | up          | 0.150143 |    0.0203477 |
+| MARCH6        | membrane associated ring-CH-type finger 6             | up          | 0.349951 |    0.0199152 |
+| EIF1AY        | eukaryotic translation initiation factor 1A, Y-linked | down        | 0.500557 |    0.0181843 |
+| DCUN1D1       | defective in cullin neddylation 1 domain containing 1 | up          | 0.244576 |    0.0165488 |
+| CREBRF        | CREB3 regulatory factor                               | up          | 0.311732 |    0.0161718 |
+| SHKBP1        | SH3KBP1 binding protein 1                             | up          | 0.262063 |    0.015802  |
+| RDH5          | retinol dehydrogenase 5                               | up          | 0.155796 |    0.015669  |
 
 ### Research Question
 Can blood gene expression profiles identify molecular biomarkers associated with Alzheimer's disease progression from healthy aging through mild cognitive impairment to clinically diagnosed Alzheimer's disease?
