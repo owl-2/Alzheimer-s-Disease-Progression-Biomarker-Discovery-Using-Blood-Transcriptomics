@@ -31,6 +31,7 @@ Probe-to-gene annotation using GPL6947 platform data
 | PC2                 |               9.0% |
 | Total               |              66.9% |
 
+![pca_plt]()
 The substantial overlap between CTL, MCI, and AD samples suggests that disease-associated expression changes occur within a highly heterogeneous biological background.
 
 #### Differential Expression Analysis
